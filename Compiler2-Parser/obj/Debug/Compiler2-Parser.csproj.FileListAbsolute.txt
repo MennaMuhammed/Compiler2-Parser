@@ -1,0 +1,10 @@
+C:\Users\A\source\repos\Compiler2-Parser\Compiler2-Parser\bin\Debug\Compiler2-Parser.exe.config
+C:\Users\A\source\repos\Compiler2-Parser\Compiler2-Parser\bin\Debug\Compiler2-Parser.exe
+C:\Users\A\source\repos\Compiler2-Parser\Compiler2-Parser\bin\Debug\Compiler2-Parser.pdb
+C:\Users\A\source\repos\Compiler2-Parser\Compiler2-Parser\obj\Debug\Compiler2-Parser.csprojAssemblyReference.cache
+C:\Users\A\source\repos\Compiler2-Parser\Compiler2-Parser\obj\Debug\Compiler2_Parser.Form1.resources
+C:\Users\A\source\repos\Compiler2-Parser\Compiler2-Parser\obj\Debug\Compiler2_Parser.Properties.Resources.resources
+C:\Users\A\source\repos\Compiler2-Parser\Compiler2-Parser\obj\Debug\Compiler2-Parser.csproj.GenerateResource.cache
+C:\Users\A\source\repos\Compiler2-Parser\Compiler2-Parser\obj\Debug\Compiler2-Parser.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\Compiler2-Parser\Compiler2-Parser\obj\Debug\Compiler2-Parser.exe
+C:\Users\A\source\repos\Compiler2-Parser\Compiler2-Parser\obj\Debug\Compiler2-Parser.pdb

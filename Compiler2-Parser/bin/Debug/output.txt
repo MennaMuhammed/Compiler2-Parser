@@ -1,0 +1,6 @@
+a ,identifier
+:= ,assign
+x ,identifier
++ ,add
+y ,identifier
+; ,special Characters
